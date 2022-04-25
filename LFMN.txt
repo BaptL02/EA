@@ -874,15 +874,15 @@ route1 =
 	end, hold
 #BIRGO, MUS
 
-[approach5]
+[approach11]
 
-runway = rwy04L
+runway = rwy04L 
 beacon = BISBO
 route1 =
 	168, RNPA, rnp04l
-	N43.4623, E7.1634
+	N43.4705, E7.1725
 	N43.5105, E7.1588
-	N43.5621, E7.1539
+	N43.5621, E7.1538
 	3.1, 1000, 180
 #RNPA BISBO
 
